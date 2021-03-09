@@ -33,6 +33,15 @@ int N_; 						//!< Number of random numbers to generate
 std::vector<char> data_; 		//!< Vector to store generated numbers
 };
 ```
+```groovy
+public class Demo {
+    public static void main(String args[]) {
+        System.out.println("Hello World");
+    }
+}
+```
+
+
 to run the tests.
 
 ## Build docs
